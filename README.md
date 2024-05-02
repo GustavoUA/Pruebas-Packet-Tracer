@@ -9,5 +9,5 @@ servidor dns
 servidos ntp
 servidor email
 
-la nube se conecta con el router de la.odicina a través de un cable serial y con la configuración de este como oficina de España y servicios en la nube.
+la nube se conecta con el router de la oficina a través de un cable serial y con la configuración de este como oficina de España y servicios en la nube.
 espero que os guste y os sirva como ejemplo de proyecto.

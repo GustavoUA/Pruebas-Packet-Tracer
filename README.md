@@ -11,3 +11,10 @@ servidor email
 
 la nube se conecta con el router de la oficina a través de un cable serial y con la configuración de este como oficina de España y servicios en la nube.
 espero que os guste y os sirva como ejemplo de proyecto.
+
+-----------------------------------------------------------------------------
+- Packet tracer Ejemplo 2
+- proyecto pyme packet-tracer.pkt
+
+  es un proyecto que incluye un router donde se ha creado las vlanes, de los departamentos(Clientes, Informatica, Administracion, RRHH, Direccion), impresoras en casi todos los departamentos, router wifis en la zona clientes, configuracion de switches en cada departamento para que sea escalable, un switch core donde se reparte las vlanes y tablet conectada a la wifi cliente....
+todos los comandos y configuraciones usada estan en el archivo "Packet Tracer ejemplo 2" y la practica está en el "Proyecto pyme packet-tracer.pkt". Espero que les guste
